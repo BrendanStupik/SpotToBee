@@ -1,4 +1,3 @@
-# SpotToBee
 SpotToBee is a command-line tool for converting Spotify and other CSV playlists to an .xautopf format compatible with MusicBee. Fetching data from Spotify requires Spotify Client Credentials from https://developer.spotify.com/dashboard. The tool can be used without credentials alongside https://exportify.net/. The tool can also be used to export a basic .csv of a Spotify playlist.
 
 ## Installation
